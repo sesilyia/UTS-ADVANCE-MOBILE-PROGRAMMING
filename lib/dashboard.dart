@@ -29,7 +29,7 @@ class DashboardScreen extends StatelessWidget {
               _icon(),
               const SizedBox(),
               const Text(
-                "Welcome",
+                "Welcome!",
                 style: TextStyle(fontSize: 20),
               ),
               DashboardIconsGrid(),
