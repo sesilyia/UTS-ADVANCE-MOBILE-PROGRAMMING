@@ -1,5 +1,3 @@
-![image](https://github.com/sesilyia/UTS-ADVANCE-MOBILE-PROGRAMMING/assets/149250665/2409861f-6fd1-4b7d-8775-e0026b6fa223)# sesilyia
-
 [TAMPILAN LOGIN]
 ![image](https://github.com/sesilyia/UTS-ADVANCE-MOBILE-PROGRAMMING/assets/149250665/506a1806-f659-46b8-9db6-59b18033710a)
 
